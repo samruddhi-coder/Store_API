@@ -44,8 +44,9 @@ A brief description of what your project does and why it's useful.
 - API methods (Store)
     - POST /api/store/new
     - GET /api/store/all
-    - PUT /api/store/:id
-    - Delete /api/store/:store_no
+    - GET /api/store/:id
+    - DELEET /api/store/:store_no
+    - PUT /api/store/:store_no
 - API Collection File path -> https://github.com/samruddhi-coder/Store_API_Collection.git
       
 ## License
