@@ -16,6 +16,7 @@ A brief description of what your project does and why it's useful.
 - [License](#license)
 - [Contact](#contact)
 - [Documentation](#documentation)
+- [Demo Images](#images)
 
 ## Installations required
 - Visual Studio code
@@ -58,3 +59,16 @@ Samruddhi Desai (mailto:desaisamruddhi99@gmail.com)
 ## Documentation
 - https://mongoosejs.com/docs/
 - https://expressjs.com/en/guide/routing.html
+
+## Demo Images
+
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/RegisterUser.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/loginUser.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/newstore.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/DBStore.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/getAllUser.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/getstorebyID.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/updatestore.png">
+<img src="https://github.com/samruddhi-coder/Store_API/blob/main/Screenshots/deletestore.png">
+
+
